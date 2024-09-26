@@ -1,7 +1,22 @@
-- 👋 Hi, I’m Dhruv Shah
-- 👀 I’m interested in problem solving and backend development.
+# 👋 Hi, I’m Dhruv Shah
 
-<!---
-DhruvShah87/DhruvShah87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m passionate about problem-solving and backend development, and I enjoy building efficient solutions for real-world challenges.
+
+## 👀 Areas of Interest
+- Data Structures & Algorithms (DSA)
+- Problem Solving
+- Software Development
+- Content Writing
+
+## 💻 Programming Languages
+- C++
+- JavaScript
+- SQL
+
+## 🛠️ Tools & Technologies
+- Node.js
+- React Native
+- Express.js
+- Git/GitHub
+
+Feel free to check out my projects and connect with me!
