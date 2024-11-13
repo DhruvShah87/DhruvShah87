@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Dhruv Shah
 
-I’m passionate about problem-solving and backend development, and I enjoy building efficient solutions for real-world challenges.
+I’m passionate about problem-solving and full stack development. I enjoy building efficient solutions for real-world challenges.
 
 ## 👀 Areas of Interest
 - Data Structures & Algorithms (DSA)
