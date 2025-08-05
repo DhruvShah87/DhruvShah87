@@ -19,8 +19,8 @@ I’m passionate about problem-solving and leveraging LLMs to solve real-world p
 
 ## 🛠️ Tools & Technologies
 <p align="left">
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/favicon.ico" alt="LangChain" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="langchain-dark-logo.svg" alt="LangChain" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="60"/>
   <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
