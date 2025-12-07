@@ -3,7 +3,6 @@
 I’m passionate about problem-solving and leveraging LLMs to solve real-world problems. I enjoy building efficient, impactful solutions that make a difference.
 
 ## 👀 Areas of Interest
-- Leveraging LLMs for Real-World Applications
 - Data Structures & Algorithms (DSA)
 - Problem Solving
 - Software Development
